@@ -1,0 +1,9 @@
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\bin\Debug\NET_CLOCK_Client.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\obj\Debug\NET_CLOCK_Client.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\obj\Debug\NET_CLOCK_Client.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\bin\Debug\NET_CLOCK_Client.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\bin\Debug\NET_CLOCK_Client.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\obj\Debug\NET_CLOCK_Client.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\obj\Debug\NET_CLOCK_Client.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\obj\Debug\NET_CLOCK_Client_TCP.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Menu\NET_CLOCKS\NET_CLOCK_Client\obj\Debug\NET_CLOCK_Client_TCP.csprojResolveAssemblyReference.cache
